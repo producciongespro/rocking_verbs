@@ -1,0 +1,182 @@
+{"webApp":
+  [
+    {"niveles":
+          [
+            {"verbos":
+                [ {"verbo":["Be", "was/were", "been", "Ser,estar"]},
+                  {"verbo":["Build", "Built", "Built", "Construir, edificar"]},
+                  {"verbo":["Do", "Did", "Done", "Hacer, ejecutar"]},
+                  {"verbo":["See", "saw", "seen", "Ver, observar"]},
+                  {"verbo":["Speak", "Spoke", "Spoken", "Hablar, decir"]},
+                  {"verbo":["Think", "Thought", "Thought", "Pensar"]},
+                  {"verbo":["Hide", "Hid", "Hidden", "Ocultar, encubrir"]},
+                  {"verbo":["Meet", "Met", "Met", "Encontrarse"]},
+                  {"verbo":["Draw", "Drawn", "Drawn", "Dibujar"]},
+                  {"verbo":["Hear", "Heard", "Heard", "Oir, escuchar"]}
+                ]
+              },
+
+            {"actividades":
+              [
+                { "idPregunta":"pregunta1" , "parte1":"Last  night I", "parte2":"about planning a party for my brother's bithday.", "verbo":"think","correcto":"thought"},
+                { "idPregunta":"pregunta2" , "parte1":"We", "parte2":"at the park yesterday.", "verbo":"meet" ,"correcto":"met"},
+                { "idPregunta":"pregunta3" , "parte1":"Let's", "parte2":"if it is possible to make the appointment.", "verbo":"see", "correcto":"see"},
+                { "idPregunta":"pregunta4" , "parte1":"My kid has", "parte2":"a beautiful picture about our family.", "verbo":"draw", "correcto":"drawn"},
+                { "idPregunta":"pregunta5" , "parte1":"That building was", "parte2":"in 1956.  ", "verbo":"build","correcto":"built"},
+                { "idPregunta":"pregunta6" , "parte1":"I", "parte2":"you snoring last night.", "verbo":"hear","correcto":"heard"},
+                { "idPregunta":"pregunta7" , "parte1":"You have", "parte2":"calling to a wrong number.", "verbo":"be","correcto":"been"},
+                { "idPregunta":"pregunta8" , "parte1":"They ", "parte2":"English. ", "verbo":"speak","correcto":"speak"}
+
+              ]
+            },
+            {"verbos":
+                [ {"verbo":["Become", "Became", "Became", "Convertirse en"]},
+                  {"verbo":["Buy", "Bought", "Bought", "Comprar"]},
+                  {"verbo":["Sell", "Sold", "Sold", "Vender"]},
+                  {"verbo":["Spend", "Spent", "Spent", "Gastar, consumir"]},
+                  {"verbo":["Understand", "Understood", "Understood", "Comprender"]},
+                  {"verbo":["Hit", "Hit", "Hit", "Golpear"]},
+                  {"verbo":["Put", "Put", "Put", "Poner, colocar"]},
+                  {"verbo":["Dream", "Dreamt", "Dreamt", "Soñar"]},
+                  {"verbo":["Find", "Found", "Found", "Encontrar, descubir"]},
+                  {"verbo":["Fly", "Flew", "Flown", "Volar"]}
+                ]
+              },
+
+            {"actividades":
+              [
+                { "idPregunta":"pregunta1" , "parte1":"Kyara ", "parte2":"a dress for the dance.", "verbo1":"buy", "verbo2":"bought", "correcto":"bought"},
+                { "idPregunta":"pregunta2" , "parte1":"Luisa and Mar ", "parte2":"friends last winter.", "verbo1":"become", "verbo2":"became", "correcto":"became"},
+                { "idPregunta":"pregunta3" , "parte1":"I am trying to  ", "parte2":"a job close to my house.", "verbo1":"find","verbo2":"found", "correcto":"find"},
+                { "idPregunta":"pregunta4" , "parte1":"Lizeth doesn´t ", "parte2":"her homework.", "verbo1":"understand", "verbo2":"understood", "correcto":"understand"},
+                { "idPregunta":"pregunta5" , "parte1":"I always  ", "parte2":"about traveling around the world.", "verbo1":"dream", "verbo2":"dreamt", "correcto":"dream"},
+                { "idPregunta":"pregunta6" , "parte1":"Lukas has ", "parte2":"all his money in betting games.", "verbo1":"spend", "verbo2":"spent", "correcto":"spent"}
+              ]
+            },
+            {"verbos":
+                [ {"verbo":["Get", "got", "gotten", "Obtener, lograr"]},
+                  {"verbo":["Drink", "Drank", "Drunk", "Beber"]},
+                  {"verbo":["Read", "Read", "Read", "Leer, descifrar"]},
+                  {"verbo":["Hold", "Held", "Held", "Sostener, contener"]},
+                  {"verbo":["Wake up", "Woke up", "Woken up", "Despertar"]},
+                  {"verbo":["Stand", "Stood", "Stood", "Estar de pie"]},
+                  {"verbo":["Show", "Showed", "Shown", "Mostrar, exhibir"]},
+                  {"verbo":["Catch", "Caught", "Caught", "Atrapar"]},
+                  {"verbo":["Begin", "Began", "Begun", "Empezar, iniciar"]},
+                  {"verbo":["Say", "Said", "Said", "Decir"]}
+                ]
+              },
+
+            {"actividades":
+              [
+                {"id":0,"parte1":"The play was ", "parte2":"at the National Theater.", "elementos": ["get","got","drink","shown","catch"],"objetivo":"blank_space","correcta":"shown"},
+                {"id":1,"parte1":"We ", "parte2":"three glasses of water after the race.", "elementos":["began","drunk","showed","gotten","drank"],"objetivo":"blank_space","correcta":"drank"},
+                {"id":2,"parte1":"The movie ", "parte2":"half hour late.", "elementos":["began","showed","shown","caught","get"],"objetivo":"blank_space","correcta":"began"},
+                {"id":3,"parte1":"The thieves were ", "parte2":"in action.", "elementos":["woke up","show","got","caught","drink"],"objetivo":"blank_space","correcta":"caught"},
+                {"id":4,"parte1":"Please, ", "parte2":"! It´s late.", "elementos":["drink","began","wake up","get","begin"],"objetivo":"blank_space","correcta":"wake up"},
+                {"id":5,"parte1":"The weather has ", "parte2":"so crazy.", "elementos":["gotten","showed","woke up","drank","begin"],"objetivo":"blank_space","correcta":"gotten"}
+              ]
+            },
+            {"verbos":
+                [ {"verbo":["Give", "Gave", "Given", "Dar, conceder"]},
+                  {"verbo":["Drive", "Drove", "Driven", "Conducir"]},
+                  {"verbo":["Ride", "Rode", "Ridden", "Montar"]},
+                  {"verbo":["Keep", "Kept", "Kept", "Guardar, conservar"]},
+                  {"verbo":["Wear", "Wore", "Worn", "Vestir"]},
+                  {"verbo":["Swim", "Swam", "Swum", "Nadar"]},
+                  {"verbo":["Sing", "Sang", "Sung", "Cantar"]},
+                  {"verbo":["Choose", "Chose", "Chosen", "Escoger, elegir"]},
+                  {"verbo":["Bite", "Bit", "Bitten", "Morder"]},
+                  {"verbo":["Bring", "Brought", "Brought", "Traer, llevar"]}
+                ]
+              },
+
+            {"actividades":
+              [
+                {"id":0, "elementos": ["give","wear","bite"],"objetivo":"blank_space","imagen":"bite.png","correcta":"bite"},
+                {"id":1, "elementos":["bite","sing","ride"],"objetivo":"blank_space","imagen":"sing.png","correcta":"sing"},
+                {"id":2, "elementos":["swim","bring","choose"],"objetivo":"blank_space","imagen":"swim.png","correcta":"swim"},
+                {"id":3, "elementos":["ride","drive","wear"],"objetivo":"blank_space","imagen":"drive.png","correcta":"drive"},
+                {"id":4, "elementos":["swim","keep","ride"],"objetivo":"blank_space","imagen":"ride.png","correcta":"ride"},
+                {"id":5, "elementos":["wear","bring","swim"],"objetivo":"blank_space","imagen":"wear.png","correcta":"wear"}
+              ]
+            },
+            {"verbos":
+                [ {"verbo":["Go", "Went", "Gone", "Ir(se)"]},
+                  {"verbo":["Eat", "Ate", "Eaten", "Comer"]},
+                  {"verbo":["Rise", "Rose", "Risen", "Ascender, elevarse"]},
+                  {"verbo":["Know", "Knew", "Known", "Conocer, saber"]},
+                  {"verbo":["Win", "Won", "Won", "Ganar, conquistar"]},
+                  {"verbo":["Take", "Took", "Taken", "Tomar, llevar"]},
+                  {"verbo":["Sit", "Sat", "Sat", "Sentarse, reunirse"]},
+                  {"verbo":["Come", "Came", "Come", "Venir"]},
+                  {"verbo":["Blow", "Blew", "Blown", "Soplar"]},
+                  {"verbo":["Sleep", "Slept", "Slept", "Dormir"]}
+                ]
+              },
+
+            {"actividades":
+              [
+                { "idPregunta":"pregunta1" , "parte1":"We ", "parte2":"he was in problems long time ago.", "verbo":"know","correcto":"knew"},
+                { "idPregunta":"pregunta2" , "parte1":"He ", "parte2":"ten hours each day.", "verbo":"sleep" ,"correcto":"sleeps"},
+                { "idPregunta":"pregunta3" , "parte1":"Betty ", "parte2":"the lottery last year.", "verbo":"win", "correcto":"won"},
+                { "idPregunta":"pregunta4" , "parte1":"Come and ", "parte2":"beside me.", "verbo":"sit", "correcto":"sit"},
+                { "idPregunta":"pregunta5" , "parte1":"My brother ", "parte2":"the apple I had in the freezer.  ", "verbo":"eat","correcto":"ate"},
+                { "idPregunta":"pregunta6" , "parte1":"The plane has ", "parte2":"already.", "verbo":"go","correcto":"gone"},
+                { "idPregunta":"pregunta7" , "parte1":"We ", "parte2":"family pictures every Christmas.", "verbo":"take","correcto":"take"},
+                { "idPregunta":"pregunta8" , "parte1":"That song is so great it makes your mind ", "parte2":". ", "verbo":"blow","correcto":"blow"}
+
+              ]
+            },
+            {"verbos":
+                [ {"verbo":["Break", "Broke", "Broken", "Quebrar, romper"]},
+                  {"verbo":["Cut", "Cut", "Cut", "Cortar, dividir"]},
+                  {"verbo":["Send", "Sent", "Sent", "Enviar"]},
+                  {"verbo":["Teach", "Taught", "Taught", "Enseñar"]},
+                  {"verbo":["Write", "Wrote", "Written", "Escribir"]},
+                  {"verbo":["Leave", "left", "left", "Irse, abandonar"]},
+                  {"verbo":["Run", "Ran", "Run", "Correr, funcionar"]},
+                  {"verbo":["Tell", "Told", "Told", "Contar, narrar"]},
+                  {"verbo":["Dig", "Dug", "Dug", "Cavar"]},
+                  {"verbo":["Make", "Made", "Made", "Hacer, confeccionar"]}
+                ]
+              },
+
+            {"actividades":
+              [
+                { "idPregunta":"pregunta1" , "parte1":"Yesterday, Victoria ", "parte2":"her friends about the party.", "verbo1":"tell", "verbo2":"told", "correcto":"told"},
+                { "idPregunta":"pregunta2" , "parte1":"The letter was ", "parte2":"2 hundred years ago.", "verbo1":"wrote", "verbo2":"written", "correcto":"written"},
+                { "idPregunta":"pregunta3" , "parte1":"I ", "parte2":"a job close to my house.", "verbo1":"find","verbo2":"found", "correcto":"found"},
+                { "idPregunta":"pregunta4" , "parte1":"Karen ", "parte2":"every morning.", "verbo1":"runs", "verbo2":"ran", "correcto":"runs"},
+                { "idPregunta":"pregunta5" , "parte1":"Someone ", "parte2":"me a present and left it over my desk.", "verbo1":"send", "verbo2":"sent", "correcto":"sent"},
+                { "idPregunta":"pregunta6" , "parte1":"Alberto ", "parte2":"up with his girlfriend last week.", "verbo1":"break", "verbo2":"broke", "correcto":"broke"},
+                { "idPregunta":"pregunta7" , "parte1":"I will ", "parte2":"the country next week.", "verbo1":"leave", "verbo2":"left", "correcto":"leave"},
+                { "idPregunta":"pregunta8" , "parte1":"The drama I saw last night really ", "parte2":"me cry.", "verbo1":"make", "verbo2":"made", "correcto":"made"}
+              ]
+            }
+          ]
+
+    },
+    {"iconos":
+      ["n1","n2","n3","n4","n5","n6"]
+    },
+
+    {"canciones":
+      [
+        { "id":"01" , "titulo":"Counting Stars", "artista":"One Republic", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=hT_nvWreIhg", "url2":"https://www.youtube.com/watch?v=K3LCDFh0ZOY"},
+        { "id":"02" , "titulo":"Paradise", "artista":"Coldplay", "descripcion":"Counting stars is a fantastic way to...","url1":"https://www.youtube.com/watch?v=1G4isv_Fylg", "url2":"https://www.youtube.com/watch?v=DbVz0jP722g" },
+        { "id":"03" ,  "titulo":"The wrong direction", "artista":"Passenger", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=VvRVu78IHHo", "url2":"https://www.youtube.com/watch?v=OMTMr95oeMc" },
+        { "id":"04" , "titulo":"The one that got away", "artista":"Katy Perry", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=Ahha3Cqe_fk", "url2":"https://www.youtube.com/watch?v=XGMn7F4qmrI" },
+        { "id":"05" , "titulo":"Somebody that I used to know", "artista":"Gotye", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=8UVNT4wvIGY", "url2":"https://www.youtube.com/watch?v=yJO1ef4r3hM" },
+        { "id":"06" , "titulo":"Something I need", "artista":"One Republic", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=qKCGBgOgp08", "url2":"https://www.youtube.com/watch?v=u2vVwhLMjH0" },
+        { "id":"07" ,  "titulo":"Over my head", "artista":"The Fray", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=fFRkpvvop3I", "url2":"https://www.youtube.com/watch?v=3VZOmGOwmxw" },
+        { "id":"08" , "titulo":"Learn and Speak English irregulars verbs ", "artista":"N/A", "descripcion":"Counting stars is a fantastic way to...", "url1":"https://www.youtube.com/watch?v=gNaDvAYC0Jw", "url2":"https://www.youtube.com/watch?v=nEyW91xmU1k" }
+      ]
+    },
+    {"creditos":
+      [
+        {"Author":"Katherine Williams Jiménez. English Adviser ", "Developers": "Luis Chacón Campos, Oscar Pérez Ramírez, Patricia Hernández Conejo", "Graphic_Designer": "Gabriela Cruz Martínez","Audio_recording": "Wendy Campos Moreira, Gabriela Cruz Martínez" ,"Voice": "Karen Campbell. Peace Corps Volunteer 2015-2017 "}
+      ]
+    }
+  ]
+}
